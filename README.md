@@ -12,13 +12,11 @@ We use this project to get a sense of your coding style, experience, and your ab
 
 # Part 1 - Describe what you’ve done
 
-Please write the reason for the project / contribution and describe the direct contributions you made.
-
-Be sure to include:
+Please write your reason for working on the project and describe the direct contributions you made, including:
 - Your GitHub username
 - A link to the repo where your work can be seen
 - Any relevant files, commits, or line number ranges
-- Your reason for working on this project
+- Why you worked on this project
 
 # Part 2 - Explore theoretical enhancements
 
