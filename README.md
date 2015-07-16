@@ -15,17 +15,17 @@ We use this project to get a sense of your coding style, experience, and your ab
 Please write the reason for the project / contribution and describe the direct contributions you made.
 
 Be sure to include:
-Your GitHub username
-A link to the repo where your work can be seen
-Any relevant files, commits, or line number ranges
-Your reason for working on this project
+- Your GitHub username
+- A link to the repo where your work can be seen
+- Any relevant files, commits, or line number ranges
+- Your reason for working on this project
 
 # Part 2 - Explore theoretical enhancements
 
 Please describe a few theoretical enhancements and new use-cases for the project, including:
-A way you could improve the architecture or code structure
-A new piece of functionality that would be useful
-How this project could be used at AltspaceVR (you might have to get creative for certain projects!)
+- A way you could improve the architecture or code structure
+- A new piece of functionality that would be useful
+- How this project could be used at AltspaceVR (you might have to get creative for certain projects!)
 
 ## Deliverable
 
