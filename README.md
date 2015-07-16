@@ -1,9 +1,6 @@
 # AltspaceVR Project - Existing Open Source
 
 ## Instructions
-# AltspaceVR Project - Existing Open Source
-
-## Instructions
 
 Link to an open source project that you have created or significantly contributed to, describe the work, and discuss possible additions. The project in question must have more than 50 GitHub stars (or equivalent), and you must have contributed more than 100 lines of code.
 
