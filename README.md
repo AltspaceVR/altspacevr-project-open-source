@@ -31,4 +31,4 @@ E-mail us a PDF file with the above content to `projects@altvr.com`. Please incl
 
 We can’t wait to see what you’ve done!
     
-[The Altspace Team](http://altvr.com/team/)
+[The AltspaceVR Team](http://altvr.com/team/)
