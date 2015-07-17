@@ -6,7 +6,7 @@ Link to an open source project that you have created or significantly contribute
 
 ## Goals
 
-Our projects have been our best tool in determining which candidates will be successful at AltspaceVR, but we recognize that everyone may not have the time to complete them. As an alternative, we offer the opportunity to candidates who have made significant open source contributions to leverage that code in lieu of a normal project.
+[Our projects](http://altspacevr.github.io/altspacevr-projects/) have been our best tool in determining which candidates will be successful at AltspaceVR, but we recognize that everyone may not have the time to complete them. As an alternative, we offer the opportunity to candidates who have made significant open source contributions to leverage that code in lieu of a normal project.
 
 We use this project to get a sense of your coding style, experience, and your ability to creatively extend your work.
 
