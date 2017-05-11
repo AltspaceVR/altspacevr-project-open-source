@@ -27,7 +27,7 @@ Please describe a few theoretical enhancements and new use-cases for the project
 
 ## Deliverable
 
-E-mail us a PDF file with the above content to `projects@altvr.com`. Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter. 
+E-mail us a PDF file with the above content to `project@altvr.com`. Please include your contact information, and if you haven't submitted it to us already, your resume and cover letter. 
 
 We can’t wait to see what you’ve done!
     
